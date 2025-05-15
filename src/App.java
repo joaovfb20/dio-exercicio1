@@ -4,7 +4,6 @@ public class App {
 
         smarTv.diminuirVolume();
         smarTv.diminuirVolume();
-        smarTv.diminuirVolume();
         smarTv.aumentarVolume();
 
 
